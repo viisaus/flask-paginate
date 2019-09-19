@@ -110,8 +110,8 @@ PREV_LABEL = '&laquo;'
 NEXT_LABEL = '&raquo;'
 RECORD_NAME = 'records'
 
-DISPLAY_MSG = '''displaying <b>{start} - {end}</b> {record_name} in
-total <b>{total}</b>'''
+DISPLAY_MSG = '''showing results <b>{start} to {end}</b> of
+<b>{total}</b>'''
 
 SEARCH_MSG = '''found <b>{found}</b> {record_name},
 displaying <b>{start} - {end}</b>'''
